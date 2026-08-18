@@ -45,7 +45,7 @@ O dashboard apresenta indicadores como:
 
 ## 📈 Dashboard
 
-![Dashboard Operacional](imagem.png)
+![Dashboard Operacional](./image.png)
 
 ##  Análises
 
